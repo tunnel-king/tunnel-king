@@ -6,7 +6,7 @@
 More on That Later... 
 
 
-### We want connecting to i2p as simple as point and click with security a top priority!
+https://geti2p.net 
  
 
 
