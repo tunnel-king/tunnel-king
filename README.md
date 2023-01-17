@@ -1,13 +1,18 @@
 # Greetings from The Garlic Router aka I2P!! 📲 📡 🎰 
 
 
-# I'm the author of the garlic router a rewrite of I2P .... 
+# Rewrite of I2P .... 
 
 More on That Later... 
 
 
 https://geti2p.net 
  
+
+
+Buy me a Coffee! 
+BTC: bc1qsevgrns95aa80ah99sqt73t4safy95pujr8gkl
+XMR: 8Amciwv7GMmGPmcZzpin8fKx8wJznxiWAEFndgHFqXX2YfNTKTdiVPWXc9CBbZDhpy6cQs9PbPsDAjRsiWnZVMCyARnFvMb
 
 
 
