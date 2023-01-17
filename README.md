@@ -1,4 +1,16 @@
-### Hi there 👋
+# Greetings from The Garlic Router aka I2P!! 📲 📡 🎰 
+
+
+# I'm the author of the garlic router a rewrite of I2P .... 
+
+More on That Later... 
+
+
+### We want connecting to i2p as simple as point and click with security a top priority!
+ 
+
+
+
 
 <!--
 **tunnel-king/tunnel-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
