@@ -11,8 +11,19 @@ https://geti2p.net
 
 
 Buy me a Coffee! 
-BTC: bc1qsevgrns95aa80ah99sqt73t4safy95pujr8gkl
-XMR: 8Amciwv7GMmGPmcZzpin8fKx8wJznxiWAEFndgHFqXX2YfNTKTdiVPWXc9CBbZDhpy6cQs9PbPsDAjRsiWnZVMCyARnFvMb
+
+
+BTC: 
+
+bc1qsevgrns95aa80ah99sqt73t4safy95pujr8gkl
+
+
+
+
+
+XMR: 
+
+8Amciwv7GMmGPmcZzpin8fKx8wJznxiWAEFndgHFqXX2YfNTKTdiVPWXc9CBbZDhpy6cQs9PbPsDAjRsiWnZVMCyARnFvMb
 
 
 
