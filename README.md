@@ -1,16 +1,16 @@
 # Greetings from The Garlic Router aka I2P!! 📲 📡 🎰 
 
-
-# Rewrite of I2P .... 
-
-More on That Later... 
+# Current Projects
+# Garnix (I2P Live OS)
+# Troll (Layer 7 Tor Padding Application Anti DDOS)
+# Rewrite of I2P Protocal (Rust) 
 
 
 https://geti2p.net 
  
 
 
-Buy me a Coffee! 
+Buy me a Coffee or use I2P!
 
 
 BTC: 
